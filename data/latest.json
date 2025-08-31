@@ -1,24 +1,108 @@
 {
-  "timestamp": "2025-08-31T07:45:36.587Z",
+  "timestamp": "2025-08-31T07:52:53.534Z",
+  "collectionTime": 4122,
   "data": {
     "exchange": {
       "usdToKrw": 1389.88,
       "eurToKrw": 1623.6915887850469,
+      "jpyToKrw": 945.4965986394559,
+      "cnyToKrw": 194.93408134642357,
       "timestamp": "2025-08-31"
     },
     "crypto": {
+      "binancecoin": {
+        "usd": 858.74,
+        "krw": 1192758,
+        "change24h": "-0.26",
+        "marketCap": 119528323292.9276
+      },
       "bitcoin": {
-        "usd": 108777,
-        "usd_24h_change": 0.2607733292027589,
-        "krw": 151087535,
-        "krw_24h_change": 0.2607733292028579
+        "usd": 108692,
+        "krw": 150969690,
+        "change24h": "0.19",
+        "marketCap": 2164506878829.7854
+      },
+      "cardano": {
+        "usd": 0.82697,
+        "krw": 1148.64,
+        "change24h": "-1.22",
+        "marketCap": 30174273337.126747
+      },
+      "dogecoin": {
+        "usd": 0.217974,
+        "krw": 302.76,
+        "change24h": "0.46",
+        "marketCap": 32854469402.76305
       },
       "ethereum": {
-        "usd": 4454.69,
-        "usd_24h_change": 1.0422211742403849,
-        "krw": 6187436,
-        "krw_24h_change": 1.0422211742404772
+        "usd": 4451.33,
+        "krw": 6182758,
+        "change24h": "1.04",
+        "marketCap": 537360655359.2647
+      },
+      "polkadot": {
+        "usd": 3.8,
+        "krw": 5284.06,
+        "change24h": "-0.19",
+        "marketCap": 5792957030.667424
+      },
+      "ripple": {
+        "usd": 2.83,
+        "krw": 3930.44,
+        "change24h": "-0.09",
+        "marketCap": 168325710890.68515
+      },
+      "solana": {
+        "usd": 203.58,
+        "krw": 282768,
+        "change24h": "-0.85",
+        "marketCap": 110098346197.02017
       }
-    }
+    },
+    "kospi": {
+      "value": 3186.01,
+      "change": null,
+      "changeAmount": null,
+      "timestamp": "2025-08-31T07:52:50.567Z"
+    },
+    "nasdaq": {
+      "value": 21455.552734375,
+      "previousClose": 21705.158,
+      "change": "-1.15",
+      "changeAmount": "-249.61",
+      "timestamp": "2025-08-29T21:15:59.000Z"
+    },
+    "stocks": [
+      {
+        "code": "005930",
+        "name": "삼성전자",
+        "price": 69700,
+        "timestamp": "2025-08-31T07:52:50.857Z"
+      },
+      {
+        "code": "000660",
+        "name": "SK하이닉스",
+        "price": 269000,
+        "timestamp": "2025-08-31T07:52:51.551Z"
+      },
+      {
+        "code": "035420",
+        "name": "NAVER",
+        "price": 214500,
+        "timestamp": "2025-08-31T07:52:52.175Z"
+      },
+      {
+        "code": "035720",
+        "name": "카카오",
+        "price": 62500,
+        "timestamp": "2025-08-31T07:52:52.847Z"
+      },
+      {
+        "code": "051910",
+        "name": "LG화학",
+        "price": 277500,
+        "timestamp": "2025-08-31T07:52:53.534Z"
+      }
+    ]
   }
 }
