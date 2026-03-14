@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-03-13T23:30:11.687Z",
-  "collectionTime": 72144,
+  "timestamp": "2026-03-14T00:00:15.511Z",
+  "collectionTime": 76351,
   "data": {
     "exchange": {
       "usdToKrw": 1499,
       "eurToKrw": 1711.33,
       "jpyToKrw": 938.46,
       "cnyToKrw": 217.09,
-      "timestamp": "2026-03-13"
+      "timestamp": "2026-03-14"
     },
     "expandedExchange": {
       "major": {
@@ -35,22 +35,262 @@
         "VND": 100,
         "IDR": 10000
       },
-      "timestamp": "2026-03-13"
+      "timestamp": "2026-03-14"
     },
-    "crypto": null,
-    "expandedCrypto": null,
+    "crypto": {
+      "binancecoin": {
+        "usd": 655.99,
+        "krw": 985848,
+        "change24h": "0.66",
+        "marketCap": 89442960068.13345
+      },
+      "bitcoin": {
+        "usd": 70961,
+        "krw": 106644484,
+        "change24h": "0.66",
+        "marketCap": 1419133420991.5525
+      },
+      "cardano": {
+        "usd": 0.265625,
+        "krw": 399.19,
+        "change24h": "0.91",
+        "marketCap": 9785776358.390196
+      },
+      "dogecoin": {
+        "usd": 0.09595,
+        "krw": 144.2,
+        "change24h": "1.28",
+        "marketCap": 14715979320.48701
+      },
+      "ethereum": {
+        "usd": 2092.83,
+        "krw": 3145207,
+        "change24h": "0.95",
+        "marketCap": 252501564143.83582
+      },
+      "polkadot": {
+        "usd": 1.46,
+        "krw": 2200.75,
+        "change24h": "-3.49",
+        "marketCap": 2450866087.2923937
+      },
+      "ripple": {
+        "usd": 1.4,
+        "krw": 2101.98,
+        "change24h": "1.01",
+        "marketCap": 85636977504.73232
+      },
+      "solana": {
+        "usd": 88.15,
+        "krw": 132469,
+        "change24h": "1.46",
+        "marketCap": 50336523571.48061
+      }
+    },
+    "expandedCrypto": {
+      "avalanche-2": {
+        "usd": 9.72,
+        "usd_market_cap": 4198330862.621679,
+        "usd_24h_vol": 427860862.7840593,
+        "usd_24h_change": 0.4827172903696517,
+        "krw": 14609.41,
+        "krw_market_cap": 6309461536890.981,
+        "krw_24h_vol": 643010697635.0231,
+        "krw_24h_change": 2.28427077028407
+      },
+      "binancecoin": {
+        "usd": 655.99,
+        "usd_market_cap": 89442960068.13345,
+        "usd_24h_vol": 1520806974.5633903,
+        "usd_24h_change": 0.6581639891906479,
+        "krw": 985848,
+        "krw_market_cap": 134419352538394.25,
+        "krw_24h_vol": 2285544761722.5894,
+        "krw_24h_change": 2.4628630509456144
+      },
+      "bitcoin": {
+        "usd": 70961,
+        "usd_market_cap": 1419133420991.5525,
+        "usd_24h_vol": 62405296858.22187,
+        "usd_24h_change": 0.6607784263058049,
+        "krw": 106644484,
+        "krw_market_cap": 2132744661737151.8,
+        "krw_24h_vol": 93785800383378.67,
+        "krw_24h_change": 2.465524362273639
+      },
+      "bitcoin-cash": {
+        "usd": 461.02,
+        "usd_market_cap": 9225139896.859282,
+        "usd_24h_vol": 313098878.489103,
+        "usd_24h_change": 1.2769552772363109,
+        "krw": 692851,
+        "krw_market_cap": 13864001493994.96,
+        "krw_24h_vol": 470540649537.34814,
+        "krw_24h_change": 3.092748640861065
+      },
+      "cardano": {
+        "usd": 0.265625,
+        "usd_market_cap": 9785776358.390196,
+        "usd_24h_vol": 617053531.0088559,
+        "usd_24h_change": 0.9142280063458882,
+        "krw": 399.19,
+        "krw_market_cap": 14706554000206.697,
+        "krw_24h_vol": 927338899076.6586,
+        "krw_24h_change": 2.7235180369124667
+      },
+      "chainlink": {
+        "usd": 9.09,
+        "usd_market_cap": 6434908659.723528,
+        "usd_24h_vol": 481525114.93178225,
+        "usd_24h_change": 0.33756701028262104,
+        "krw": 13659.48,
+        "krw_market_cap": 9670702479265.496,
+        "krw_24h_vol": 723660018975.2285,
+        "krw_24h_change": 2.136518092498636
+      },
+      "dogecoin": {
+        "usd": 0.09595,
+        "usd_market_cap": 14715979320.48701,
+        "usd_24h_vol": 1943189952.0752954,
+        "usd_24h_change": 1.2788185707823605,
+        "krw": 144.2,
+        "krw_market_cap": 22115909521793.88,
+        "krw_24h_vol": 2920323019476.357,
+        "krw_24h_change": 3.094645341375698
+      },
+      "ethereum": {
+        "usd": 2092.83,
+        "usd_market_cap": 252501564143.83582,
+        "usd_24h_vol": 28447416900.952805,
+        "usd_24h_change": 0.9525757154323309,
+        "krw": 3145207,
+        "krw_market_cap": 379471975673563.5,
+        "krw_24h_vol": 42752200489596.9,
+        "krw_24h_change": 2.7625532816330214
+      },
+      "litecoin": {
+        "usd": 55.32,
+        "usd_market_cap": 4256966824.065887,
+        "usd_24h_vol": 441324417.2710561,
+        "usd_24h_change": 1.357425738849615,
+        "krw": 83143,
+        "krw_market_cap": 6397582591547.414,
+        "krw_24h_vol": 663244400495.8063,
+        "krw_24h_change": 3.174661856452971
+      },
+      "monero": {
+        "usd": 357.07,
+        "usd_market_cap": 6602178410.313705,
+        "usd_24h_vol": 91141315.14203486,
+        "usd_24h_change": 1.8743288538353047,
+        "krw": 536627,
+        "krw_market_cap": 9922083823939.947,
+        "krw_24h_vol": 136971725461.20699,
+        "krw_24h_change": 3.700832521428289
+      },
+      "polkadot": {
+        "usd": 1.46,
+        "usd_market_cap": 2450866087.2923937,
+        "usd_24h_vol": 144963406.04383835,
+        "usd_24h_change": -3.4914456541922934,
+        "krw": 2200.75,
+        "krw_market_cap": 3683284099287.3726,
+        "krw_24h_vol": 217858254772.98233,
+        "krw_24h_change": -1.7611448958960199
+      },
+      "ripple": {
+        "usd": 1.4,
+        "usd_market_cap": 85636977504.73232,
+        "usd_24h_vol": 3306133577.0851374,
+        "usd_24h_change": 1.0057017022650785,
+        "krw": 2101.98,
+        "krw_market_cap": 128699531642986.84,
+        "krw_24h_vol": 4968622846322.3955,
+        "krw_24h_change": 2.8166317636712823
+      },
+      "shiba-inu": {
+        "usd": 0.00000594,
+        "usd_market_cap": 3496303603.635042,
+        "usd_24h_vol": 157462167.29953966,
+        "usd_24h_change": 0.3546994476918528,
+        "krw": 0.00892031,
+        "krw_market_cap": 5254419870722.918,
+        "krw_24h_vol": 236642018126.113,
+        "krw_24h_change": 2.153957697180647
+      },
+      "solana": {
+        "usd": 88.15,
+        "usd_market_cap": 50336523571.48061,
+        "usd_24h_vol": 5419832735.094064,
+        "usd_24h_change": 1.4552381084279657,
+        "krw": 132469,
+        "krw_market_cap": 75648244449399.62,
+        "krw_24h_vol": 8145195625936.107,
+        "krw_24h_change": 3.2742279028778967
+      },
+      "stellar": {
+        "usd": 0.163867,
+        "usd_market_cap": 5406168919.684262,
+        "usd_24h_vol": 104728495.37358618,
+        "usd_24h_change": 2.3412668433813084,
+        "krw": 246.27,
+        "krw_market_cap": 8124660960947.491,
+        "krw_24h_vol": 157391219272.19388,
+        "krw_24h_change": 4.1761422368058865
+      },
+      "tether": {
+        "usd": 1,
+        "usd_market_cap": 184030931979.29944,
+        "usd_24h_vol": 99879308089.31836,
+        "usd_24h_change": 0.012745002040442344,
+        "krw": 1502.98,
+        "krw_market_cap": 276570886125089.94,
+        "krw_24h_vol": 150103618162032,
+        "krw_24h_change": 1.8058723542152815
+      },
+      "the-open-network": {
+        "usd": 1.31,
+        "usd_market_cap": 3224869160.9637995,
+        "usd_24h_vol": 110194154.86321951,
+        "usd_24h_change": 0.3485936562611174,
+        "krw": 1972.41,
+        "krw_market_cap": 4846494618554.443,
+        "krw_24h_vol": 165605285636.18933,
+        "krw_24h_change": 2.147742435085759
+      },
+      "tron": {
+        "usd": 0.293415,
+        "usd_market_cap": 27798344583.676205,
+        "usd_24h_vol": 453641195.73984283,
+        "usd_24h_change": 1.4799611837295417,
+        "krw": 440.96,
+        "krw_market_cap": 41776742157577.76,
+        "krw_24h_vol": 681754671017.6223,
+        "krw_24h_change": 3.2993942379115557
+      },
+      "uniswap": {
+        "usd": 4,
+        "usd_market_cap": 2535437004.074517,
+        "usd_24h_vol": 259480131.80505845,
+        "usd_24h_change": 2.1662597899325573,
+        "krw": 6015.56,
+        "krw_market_cap": 3810381501573.3843,
+        "krw_24h_vol": 389959716083.2318,
+        "krw_24h_change": 3.997997483913411
+      }
+    },
     "kospi": {
       "value": 5487.24,
       "change": "-1.72",
       "changeAmount": "-96.01",
-      "timestamp": "2026-03-13T23:30:29.654Z",
+      "timestamp": "2026-03-14T00:00:34.103Z",
       "source": "yahoo"
     },
     "kosdaq": {
       "value": 1152.96,
       "change": "1.42",
       "changeAmount": "16.13",
-      "timestamp": "2026-03-13T23:30:29.725Z",
+      "timestamp": "2026-03-14T00:00:34.120Z",
       "source": "yahoo"
     },
     "nasdaq": null,
@@ -144,362 +384,225 @@
         "source": "yahoo"
       }
     },
-    "commodities": {
-      "gold": {
-        "price": 5022.11,
-        "unit": "USD/oz",
-        "change": "57.08"
-      },
-      "silver": {
-        "price": 80.535,
-        "unit": "USD/oz",
-        "change": "3.283"
-      },
-      "copper": {
-        "price": 5.629,
-        "unit": "USD/lb",
-        "change": "0.1955"
-      },
-      "oil": {
-        "wti": null,
-        "brent": 103.86,
-        "unit": "USD/bbl",
-        "change": "3.400"
-      }
-    },
-    "expandedCommodities": {
-      "oil_brent": {
-        "price": 103.86,
-        "unit": "USD/bbl",
-        "name": "브렌트유",
-        "change": "3.400"
-      },
-      "gasoline": {
-        "price": 3.0653,
-        "unit": "USD/gal",
-        "name": "휘발유",
-        "change": "0.1007"
-      },
-      "gold": {
-        "price": 5022.11,
-        "unit": "USD/oz",
-        "name": "금",
-        "change": "57.08"
-      },
-      "silver": {
-        "price": 80.535,
-        "unit": "USD/oz",
-        "name": "은",
-        "change": "3.283"
-      },
-      "copper": {
-        "price": 5.629,
-        "unit": "USD/lb",
-        "name": "구리",
-        "change": "0.1955"
-      },
-      "platinum": {
-        "price": 2024.5,
-        "unit": "USD/oz",
-        "name": "백금",
-        "change": "141.00"
-      },
-      "soybeans": {
-        "price": 1223.75,
-        "unit": "USD/부셸",
-        "name": "대두",
-        "change": "3.50"
-      },
-      "wheat": {
-        "price": 613.25,
-        "unit": "USD/부셸",
-        "name": "밀",
-        "change": "14.75"
-      },
-      "coffee": {
-        "price": 284.94,
-        "unit": "USc/lb",
-        "name": "커피",
-        "change": "6.96"
-      },
-      "cotton": {
-        "price": 65.798,
-        "unit": "USc/lb",
-        "name": "면화",
-        "change": "0.658"
-      },
-      "rice": {
-        "price": 11.375,
-        "unit": "USD/cwt",
-        "name": "쌀",
-        "change": "0.0600"
-      },
-      "sugar": {
-        "price": 14.41,
-        "unit": "USc/lb",
-        "name": "설탕",
-        "change": "0.03"
-      },
-      "cocoa": {
-        "price": 3295.23,
-        "unit": "USD/MT",
-        "name": "코코아",
-        "change": "19.77"
-      },
-      "corn": {
-        "price": 467,
-        "unit": "USD/부셸",
-        "name": "옥수수",
-        "change": "4.5000"
-      },
-      "lead": {
-        "price": 0.8595494915223486,
-        "unit": "USD/lb",
-        "name": "납",
-        "change": "43.85"
-      },
-      "aluminum": {
-        "price": 1.5512877502698879,
-        "unit": "USD/lb",
-        "name": "알루미늄",
-        "change": "99.35"
-      },
-      "zinc": {
-        "price": 1.4924567499160855,
-        "unit": "USD/lb",
-        "name": "아연",
-        "change": "26.20"
-      },
-      "nickel": {
-        "price": 7.85622919142528,
-        "unit": "USD/lb",
-        "name": "니켈",
-        "change": "445"
-      },
-      "palladium": {
-        "price": 1561,
-        "unit": "USD/oz",
-        "name": "팔라듐",
-        "change": "87.00"
-      }
-    },
+    "commodities": {},
+    "expandedCommodities": {},
     "stocks": [
       {
         "code": "005930",
         "name": "삼성전자",
         "id": "samsung",
         "price": 183500,
-        "timestamp": "2026-03-13T23:31:02.973Z"
+        "timestamp": "2026-03-14T00:01:10.589Z"
       },
       {
         "code": "000660",
         "name": "SK하이닉스",
         "id": "skhynix",
         "price": 910000,
-        "timestamp": "2026-03-13T23:31:03.665Z"
+        "timestamp": "2026-03-14T00:01:11.227Z"
       },
       {
         "code": "373220",
         "name": "LG에너지솔루션",
         "id": "lgenergy",
         "price": 369000,
-        "timestamp": "2026-03-13T23:31:04.448Z"
+        "timestamp": "2026-03-14T00:01:12.007Z"
       },
       {
         "code": "207940",
         "name": "삼성바이오로직스",
         "id": "samsungbio",
         "price": 1592000,
-        "timestamp": "2026-03-13T23:31:05.132Z"
+        "timestamp": "2026-03-14T00:01:12.884Z"
       },
       {
         "code": "005380",
         "name": "현대차",
         "id": "hyundai",
         "price": 517000,
-        "timestamp": "2026-03-13T23:31:05.806Z"
+        "timestamp": "2026-03-14T00:01:13.565Z"
       },
       {
         "code": "005490",
         "name": "POSCO홀딩스",
         "id": "posco",
         "price": 337000,
-        "timestamp": "2026-03-13T23:31:06.496Z"
+        "timestamp": "2026-03-14T00:01:14.311Z"
       },
       {
         "code": "000270",
         "name": "기아",
         "id": "kia",
         "price": 164300,
-        "timestamp": "2026-03-13T23:31:07.168Z"
+        "timestamp": "2026-03-14T00:01:15.015Z"
       },
       {
         "code": "068270",
         "name": "셀트리온",
         "id": "celltrion",
         "price": 205500,
-        "timestamp": "2026-03-13T23:31:07.883Z"
+        "timestamp": "2026-03-14T00:01:15.717Z"
       },
       {
         "code": "051910",
         "name": "LG화학",
         "id": "lgchem",
         "price": 297500,
-        "timestamp": "2026-03-13T23:31:08.687Z"
+        "timestamp": "2026-03-14T00:01:16.412Z"
       },
       {
         "code": "006400",
         "name": "삼성SDI",
         "id": "samsungsdi",
         "price": 388000,
-        "timestamp": "2026-03-13T23:31:09.361Z"
+        "timestamp": "2026-03-14T00:01:17.116Z"
       },
       {
         "code": "035420",
         "name": "NAVER",
         "id": "naver",
         "price": 223000,
-        "timestamp": "2026-03-13T23:31:10.043Z"
+        "timestamp": "2026-03-14T00:01:17.802Z"
       },
       {
         "code": "035720",
         "name": "카카오",
         "id": "kakao",
         "price": 50600,
-        "timestamp": "2026-03-13T23:31:10.717Z"
+        "timestamp": "2026-03-14T00:01:18.499Z"
       },
       {
         "code": "036570",
         "name": "NCsoft",
         "id": "ncsoft",
         "price": 228500,
-        "timestamp": "2026-03-13T23:31:11.394Z"
+        "timestamp": "2026-03-14T00:01:19.209Z"
       },
       {
         "code": "251270",
         "name": "넷마블",
         "id": "netmarble",
         "price": 54800,
-        "timestamp": "2026-03-13T23:31:12.075Z"
+        "timestamp": "2026-03-14T00:01:19.909Z"
       },
       {
         "code": "263750",
         "name": "펄어비스",
         "id": "pearlabyss",
         "price": 65800,
-        "timestamp": "2026-03-13T23:31:12.745Z"
+        "timestamp": "2026-03-14T00:01:20.585Z"
       },
       {
         "code": "055550",
         "name": "신한지주",
         "id": "shinhan",
         "price": 90800,
-        "timestamp": "2026-03-13T23:31:13.420Z"
+        "timestamp": "2026-03-14T00:01:21.384Z"
       },
       {
         "code": "105560",
         "name": "KB금융",
         "id": "kb",
         "price": 148900,
-        "timestamp": "2026-03-13T23:31:14.114Z"
+        "timestamp": "2026-03-14T00:01:22.097Z"
       },
       {
         "code": "086790",
         "name": "하나금융지주",
         "id": "hana",
         "price": 108900,
-        "timestamp": "2026-03-13T23:31:14.702Z"
+        "timestamp": "2026-03-14T00:01:22.795Z"
       },
       {
         "code": "024110",
         "name": "기업은행",
         "id": "ibk",
         "price": 23100,
-        "timestamp": "2026-03-13T23:31:15.392Z"
+        "timestamp": "2026-03-14T00:01:23.510Z"
       },
       {
         "code": "326030",
         "name": "SK바이오팜",
         "id": "skbiopharm",
         "price": 97800,
-        "timestamp": "2026-03-13T23:31:16.164Z"
+        "timestamp": "2026-03-14T00:01:24.217Z"
       },
       {
         "code": "128940",
         "name": "한미약품",
         "id": "hanmi",
         "price": 496500,
-        "timestamp": "2026-03-13T23:31:16.829Z"
+        "timestamp": "2026-03-14T00:01:24.926Z"
       },
       {
         "code": "003670",
         "name": "포스코퓨처엠",
         "id": "poscofuturem",
         "price": 190900,
-        "timestamp": "2026-03-13T23:31:17.565Z"
+        "timestamp": "2026-03-14T00:01:25.544Z"
       },
       {
         "code": "247540",
         "name": "에코프로비엠",
         "id": "ecoproBM",
         "price": 191300,
-        "timestamp": "2026-03-13T23:31:18.260Z"
+        "timestamp": "2026-03-14T00:01:26.233Z"
       },
       {
         "code": "352820",
         "name": "하이브",
         "id": "hybe",
         "price": 361500,
-        "timestamp": "2026-03-13T23:31:18.935Z"
+        "timestamp": "2026-03-14T00:01:26.925Z"
       },
       {
         "code": "035900",
         "name": "JYP Ent.",
         "id": "jyp",
         "price": 66700,
-        "timestamp": "2026-03-13T23:31:19.675Z"
+        "timestamp": "2026-03-14T00:01:27.621Z"
       },
       {
         "code": "041510",
         "name": "SM",
         "id": "sm",
         "price": 101700,
-        "timestamp": "2026-03-13T23:31:20.390Z"
+        "timestamp": "2026-03-14T00:01:28.336Z"
       },
       {
         "code": "122870",
         "name": "YG",
         "id": "yg",
         "price": 63500,
-        "timestamp": "2026-03-13T23:31:21.066Z"
+        "timestamp": "2026-03-14T00:01:29.036Z"
       },
       {
         "code": "000810",
         "name": "삼성화재",
         "id": "samsungfire",
         "price": 474000,
-        "timestamp": "2026-03-13T23:31:21.823Z"
+        "timestamp": "2026-03-14T00:01:29.747Z"
       },
       {
         "code": "066570",
         "name": "LG전자",
         "id": "lgelectronics",
         "price": 113100,
-        "timestamp": "2026-03-13T23:31:22.504Z"
+        "timestamp": "2026-03-14T00:01:30.457Z"
       },
       {
         "code": "034730",
         "name": "SK",
         "id": "sk",
         "price": 331000,
-        "timestamp": "2026-03-13T23:31:23.172Z"
+        "timestamp": "2026-03-14T00:01:31.163Z"
       },
       {
         "code": "003550",
         "name": "LG",
         "id": "lg",
         "price": 90000,
-        "timestamp": "2026-03-13T23:31:23.831Z"
+        "timestamp": "2026-03-14T00:01:31.862Z"
       }
     ]
   }
